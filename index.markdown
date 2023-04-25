@@ -40,6 +40,7 @@ Children acquire an understanding of the world by asking "why" and "how" questio
 {: .logos}
 [![Logo of KIXLAB](/assets/img/kixlab_logo.png)](https://kixlab.org)
 [![Logo of KAIST](/assets/img/kaist_logo.png)](https://kaist.ac.kr)
+[![Logo of Naver](/assets/img/naver_logo.png)](https://naver.com)
 
 {: .center .acknowledgement}
 This research was supported by the KAIST-NAVER Hypercreative AI Center.

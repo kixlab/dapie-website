@@ -22,6 +22,7 @@ title: DAPIE
 theme: minima
 description: "Interactive Step-by-Step Explanatory Dialogues to Answer Children’s Why and How Questions"
 
+syslogo: /assets/img/dapie_logo.png
 syscolor: "#33458b"
 sysfont: Lato
 video: https://www.youtube.com/watch?v=nBdIhI66_vY

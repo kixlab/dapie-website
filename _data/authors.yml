@@ -1,14 +1,18 @@
+- name: Yoonjoo Lee
+  affiliation: KAIST
+  website: https://yoonjoolee.com/
+  img: yoonjoo.jpeg
 - name: Tae Soo Kim
   affiliation: KAIST
   website: https://taesookim.com
-  img: taesoo.jpeg
-- name: Seungsu Kim
+  img: taesoo.jpg
+- name: Sungdong Kim
+  affiliation: Naver AI Lab
+  website: https://scholar.google.com/citations?user=xKrSnDoAAAAJ&hl=en&oi=ao
+  img: sungdong.jpeg
+- name: Yohan Yun
   affiliation: KAIST
-  img: seungsu.jpeg
-- name: Yoonseo Choi
-  affiliation: KAIST
-  website: https://yoonseochoi.com
-  img: yoonseo.png
+  img: yohan.jpeg
 - name: Juho Kim
   affiliation: KAIST
   website: https://juhokim.com
